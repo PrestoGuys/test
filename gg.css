@@ -1,0 +1,39 @@
+/* Remove rounded corners on posts, comments, and UI */
+* {
+    border-radius: 0px !important;
+}
+
+/* Make buttons and input fields square */
+button, input, textarea, select {
+    border-radius: 0px !important;
+}
+
+/* Make subreddit banner and community info box square */
+._2uAZ3C_qeYhCGLO8ynZbSm, ._1qftyZQ2bhqP62lbPjoGAh, ._3gC3JB5D9t7h2X3nT-_6s1 {
+    border-radius: 0px !important;
+}
+
+/* Make upvote/downvote buttons square */
+._23h0-EcaBUorIHC-JZyh6J {
+    border-radius: 0px !important;
+}
+
+/* Remove rounded edges from user avatars */
+._2TN8dEgAQbSyKntWpSPYM7 img {
+    border-radius: 0px !important;
+}
+
+/* Ensure comment sections and thread boxes have no rounded corners */
+._1oQyIsiPHYt6nx7VOmd1sz, ._3tw__eCCe7j-epNCKGXUKk, ._1E9mcoVn4MYnuBQSVDt1gC {
+    border-radius: 0px !important;
+}
+
+/* Make buttons and menu items square */
+._1XlL5bMxwERzwGJXrSYvx6, ._1poyrkZ7g36PawDueRza-J, ._2ilDLNSvkCHD3Cs9duy9Q_ {
+    border-radius: 0px !important;
+}
+
+/* Adjust modal windows */
+._1Z5Cf-nYPoDGR5lHnKnA9O {
+    border-radius: 0px !important;
+}
